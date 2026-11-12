@@ -1,4 +1,4 @@
-# Day 22 – Energy Demand Forecasting using LSTM & Attention
+# Energy Demand Forecasting using LSTM & Attention
 
 ## Project Overview
 
